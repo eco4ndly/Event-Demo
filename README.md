@@ -4,7 +4,7 @@
 
 Note: Though SingleLiveEvent is a great class to use to handle events, I didn't choose to use it here because of its drawbacks.
 SingleLiveEvent can't have multiple observers. And this is a huge problem when you are working on a real big project.
-The method shown in this sample project solves the problem
+The method shown in this sample project solves the problem.
 Thanks to [This Project](https://github.com/android/plaid)
 
 ```kotlin
